@@ -17,7 +17,7 @@
 
 	<properties>
 		<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>	<!-- swagger -->
-		<java.version>11.0.18</java.version>
+		<java.version>11</java.version>
 	</properties>
 
 	<dependencies>
